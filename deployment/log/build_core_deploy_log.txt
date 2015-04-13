@@ -1,0 +1,10 @@
+Buildfile: C:\Users\ako\Projects\mendix\MobileNotes\deployment\build_core.xml
+
+deploy:
+    [unzip] Expanding: C:\Program Files\Mendix\5.15.0\modeler\deployment.mxz into C:\Users\ako\Projects\mendix\MobileNotes\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
+
